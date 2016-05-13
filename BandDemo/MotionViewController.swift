@@ -1,10 +1,3 @@
-//
-//  SecondViewController.swift
-//  BandDemo
-//
-//  Created by Manu Rink on 12/05/16.
-//  Copyright © 2016 Manu Rink. All rights reserved.
-//
 
 import UIKit
 
