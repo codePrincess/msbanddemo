@@ -7,7 +7,7 @@ The SDKs for iOS, Android and Windows can be downloaded here: https://developer.
 The detailed documentation on the different sensor values can be look up here: https://developer.microsoftband.com/Content/docs/Microsoft%20Band%20SDK.pdf
 
 ## Getting started
-Download the "Microsoft Health" app from the app store to easily pair the Band with your iOS device. After this is done the demo should work out of the box :)
+Download the "Microsoft Health" app from the app store to easily pair the Band with your iOS device. After this is done the demo should work out of the box :) For those of you who wil cry out loud now "WHY DID SHE COMMIT THE SDK BINARIES" one word for you: so that everything works right out of the box ;)
 
 ## Sensor coverage
 The app covers data retrieval from the following sensors in the MS Band 2.
